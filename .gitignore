@@ -32,3 +32,6 @@ combined_subjects.fasta
 # Системные файлы
 .DS_Store
 Thumbs.db
+
+!examples/*.fasta
+!examples/*.fna
