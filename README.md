@@ -39,7 +39,7 @@
 
 **Пример запуска:**
 
-    python main.py --query gene.fasta --subjects genome.fasta --out results_dir
+    python main.py --query examples/gene.fasta --subjects examples/genome.fasta --out results_dir
 
 **Аргументы командной строки:**
 * `--query`: Путь к файлу с последовательностью-запросом (или сама строка).
